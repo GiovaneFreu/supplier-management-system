@@ -1,7 +1,7 @@
 # 🏢 Supplier Management System
 
 [![CI/CD Pipeline](https://github.com/your-username/supplier-management-system/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/your-username/supplier-management-system/actions/workflows/ci-cd.yml)
-[![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-brightgreen)](https://supplier-management-system.vercel.app)
+[![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-brightgreen)](https://supplier-management-system-virid.vercel.app)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8+-blue)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19.1-61dafb)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.4+-38b2ac)](https://tailwindcss.com/)
@@ -247,6 +247,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**[🌐 Live Demo](https://supplier-management-system.vercel.app)** • **[📖 Documentation](./DEPLOYMENT.md)** • **[🐛 Report Bug](https://github.com/your-username/supplier-management-system/issues)**
+**[🌐 Live Demo](https://supplier-management-system-virid.vercel.app)** • **[📖 Documentation](./DEPLOYMENT.md)** • **[🐛 Report Bug](https://github.com/your-username/supplier-management-system/issues)**
 
 </div>
